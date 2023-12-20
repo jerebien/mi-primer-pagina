@@ -1,14 +1,1 @@
-body {
-  background-color: #333;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
 
-h1 {
-  color: #f00;
-}
-
-.noob {
-  color: #fff;
-}
